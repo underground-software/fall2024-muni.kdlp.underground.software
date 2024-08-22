@@ -56,7 +56,7 @@ Linux is the most widely used operating system in the world. The core software c
 
 # Course Schedule
 |  ID | Date  | Lesson | Presenter |
-| ----| ------| ---------| -------|
+|--|--|--|--|
 | 1.  | Sep 16, 2024 |Introduction, Development environment setup |Izabela, Carlos, Rado, Vratislav |
 | 2.  | Sep 23, 2024 | General overview of core kernel concepts | Vratislav |
 | 3.  | Sep 30, 2024 | PC and the x86 | Rado |
