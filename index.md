@@ -55,18 +55,18 @@ Linux is the most widely used operating system in the world. The core software c
 -   To pass the course, students need to accumulate at least 65 points across all assignments.
 
 # Course Schedule
-|ID|Date|Lesson|Presenter|
-|--|--|--|--|
-|1.  |Sep 16, 2024 |Introduction, Development environment setup |Izabela, Carlos, Rado, Vratislav |
-|2.  |Sep 23, 2024 |General overview of core kernel concepts |Vratislav |
-|3.  |Sep 30, 2024 |PC and the x86 |Rado |
-|4.  |Oct 7, 2024 |Process management |Rado |
-|5.  |Oct 14, 2024 |Synchronisation primitives |Carlos |
-|6.  |Oct 21, 2024 |Memory Management |Carlos |
-|7.  |Nov 4, 2024 |Storage management |Carlos |
-|8.  |Nov 11, 2024 |Networking stack |Izabela |
-|9.  |Nov 18, 2024 |Device drivers and Linux Device Model |Izabela |
-|10. |Nov 25, 2024 |Kernel Debugging 1 |Vratislav |
-|11. |Dec 2, 2024 |Kernel Debugging 2 |Vratislav |
-|12. |Dec 9, 2024 |GPG signing party! |Izabela, Carlos, Rado, Vratislav |
 
+| ID  | Date          | Lesson                                      | Presenter                        |
+|-----|---------------|---------------------------------------------|----------------------------------|
+| 1.  |  Sep 16, 2024 | Introduction, Development environment setup | Izabela, Carlos, Rado, Vratislav |
+| 2.  |  Sep 23, 2024 | General overview of core kernel concepts    | Vratislav                        |
+| 3.  |  Sep 30, 2024 | PC and the x86                              | Rado                             |
+| 4.  |  Oct 7, 2024  | Process management                          | Rado                             |
+| 5.  |  Oct 14, 2024 | Synchronization primitives                  | Carlos                           |
+| 6.  |  Oct 21, 2024 | Memory Management                           | Carlos                           |
+| 7.  |  Nov 4, 2024  | Storage management                          | Carlos                           |
+| 8.  |  Nov 11, 2024 | Networking stack                            | Izabela                          |
+| 9.  |  Nov 18, 2024 | Device drivers and Linux Device Model       | Izabela                          |
+| 10. |  Nov 25, 2024 | Kernel Debugging 1                          | Vratislav                        |
+| 11. |  Dec 2, 2024  | Kernel Debugging 2                          | Vratislav                        |
+| 12. |  Dec 9, 2024  | GPG signing party!                          | Izabela, Carlos, Rado, Vratislav |
