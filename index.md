@@ -8,6 +8,14 @@ Linux is the most widely used operating system in the world. The core software c
 -   Starting Sep 16, 2024
 -   Mondays 14pm-16pm CET
 
+# Teachers
+- Carlos Maiolino <cem<at>maiolino.dev>
+- Vratislav Bendel <vbendel<at>redhat.com>
+- Radomir Vrbovsky <rvrbovsk<at>redhat.com>
+
+# Lecture Room
+- FI MUNI, Building S, Room S505 (Fifth floor)
+
 # Prerequisites
 -   English language
 -   C language knowledge
@@ -70,3 +78,5 @@ Linux is the most widely used operating system in the world. The core software c
 | 10. |  Nov 25, 2024 | Kernel Debugging 1                          | Vratislav                        |
 | 11. |  Dec 2, 2024  | Kernel Debugging 2                          | Vratislav                        |
 | 12. |  Dec 9, 2024  | GPG signing party!                          | Izabela, Carlos, Rado, Vratislav |
+
+
