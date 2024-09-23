@@ -14,7 +14,7 @@ Linux is the most widely used operating system in the world. The core software c
 - Radomir Vrbovsky <rvrbovsk<at>redhat.com>
 
 # Lecture Room
-- FI MUNI, Building S, Room S505 (Fifth floor)
+- FI MUNI, Building S, [Room S505](https://is.muni.cz/kontakty/mistnost?lang=en;id=12880) (Fifth floor)
 
 # Prerequisites
 -   English language
@@ -24,7 +24,8 @@ Linux is the most widely used operating system in the world. The core software c
 -   Basic git
 -   Own computer, preferably a laptop with x86 architecture
 
-# Credits
+# Course enrollment
+-   KDLP is taugh under [PB173 Domain specific development](https://is.muni.cz/course/fi/podzim2024/PB173?lang=en)
 -   The reward for passing the course is 3 credits.
 
 # Language of Instruction
@@ -66,7 +67,7 @@ Linux is the most widely used operating system in the world. The core software c
 
 | ID  | Date          | Lesson                                      | Presenter                        |
 |-----|---------------|---------------------------------------------|----------------------------------|
-| 1.  |  Sep 23, 2024 | Introduction, Development environment setup | Izabela, Carlos, Rado, Vratislav |
+| 1.  |  Sep 23, 2024 | [Introduction](/slides/L01_Introduction.pdf), [Development environment setup](/slides/L01_Development-environment-setup.pdf) | Izabela, Carlos, Rado, Vratislav |
 | 2.  |  Sep 30, 2024 | General overview of core kernel concepts    | Vratislav                        |
 | 3.  |  Oct 7, 2024 | PC and the x86                              | Rado                             |
 | 4.  |  Oct 14, 2024  | Process management                          | Rado                             |
