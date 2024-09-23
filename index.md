@@ -25,7 +25,7 @@ Linux is the most widely used operating system in the world. The core software c
 -   Own computer, preferably a laptop with x86 architecture
 
 # Course enrollment
--   KDLP is taugh under [PB173 Domain specific development](https://is.muni.cz/course/fi/podzim2024/PB173?lang=en)
+-   KDLP is taught under [PB173 Domain specific development](https://is.muni.cz/course/fi/podzim2024/PB173?lang=en)
 -   The reward for passing the course is 3 credits.
 
 # Language of Instruction
