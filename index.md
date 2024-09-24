@@ -84,7 +84,7 @@ Linux is the most widely used operating system in the world. The core software c
 
 | ID | Description                                                               | Max points | Due date      |
 |----|---------------------------------------------------------------------------|------------|---------------|
-| 1. | [Compile Custom Smallest Kernel](/assignments/A01_Custom_Kernel.md)       | 10         |  Oct 6, 2024  |
+| 1. | [Compile Smallest Custom Kernel](/assignments/A01_Custom_Kernel.md)       | 10         |  Oct 6, 2024  |
 | 2. | Custom Syscall                                                            | 20         |  Oct 27, 2024 |
 | 3. | Implement operations within the toyfs filesystem                          | 25         |  Nov 17, 2024 |
 | 4. | Implement locking on the toyfs filesystem                                 | 10         |  Dec 8, 2024  |
