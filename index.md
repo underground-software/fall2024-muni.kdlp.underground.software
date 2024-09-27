@@ -9,9 +9,9 @@ Linux is the most widely used operating system in the world. The core software c
 -   Mondays 14pm-16pm CET
 
 # Teachers
-- Carlos Maiolino <cem<at>maiolino.dev>
-- Vratislav Bendel <vbendel<at>redhat.com>
-- Radomir Vrbovsky <rvrbovsk<at>redhat.com>
+- Carlos Maiolino <cem\<at>maiolino.dev>
+- Vratislav Bendel <vbendel\<at>redhat.com>
+- Radomir Vrbovsky <rvrbovsk\<at>redhat.com>
 
 # Lecture Room
 - FI MUNI, Building S, [Room S505](https://is.muni.cz/kontakty/mistnost?lang=en;id=12880) (Fifth floor)
