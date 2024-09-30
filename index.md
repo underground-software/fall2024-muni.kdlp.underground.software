@@ -82,6 +82,9 @@ Linux is the most widely used operating system in the world. The core software c
 
 # Assignments
 
+- Use your <login>\<at>fi.muni.cz emails to send the assignments
+- Use the mailing list <kdlp-brno-assignments\<at>redhat.com> to send the assignments
+
 | ID | Description                                                               | Max points | Due date      |
 |----|---------------------------------------------------------------------------|------------|---------------|
 | 1. | [Compile Smallest Custom Kernel](/assignments/A01_Custom_Kernel.md)       | 10         |  Oct 6, 2024  |
