@@ -82,7 +82,7 @@ Linux is the most widely used operating system in the world. The core software c
 
 # Assignments
 
-- Use your <login>\<at>fi.muni.cz emails to send the assignments
+- Use your \<login>\<at>fi.muni.cz emails to send the assignments
 - Use the mailing list <kdlp-brno-assignments\<at>redhat.com> to send the assignments
 
 | ID | Description                                                               | Max points | Due date      |
