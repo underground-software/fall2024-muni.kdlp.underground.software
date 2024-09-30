@@ -68,7 +68,7 @@ Linux is the most widely used operating system in the world. The core software c
 | ID  | Date          | Lesson                                      | Presenter                        |
 |-----|---------------|---------------------------------------------|----------------------------------|
 | 1.  |  Sep 23, 2024 | [Introduction](/slides/L01_Introduction.pdf), [Development environment setup](/slides/L01_Development-environment-setup.pdf) | Izabela, Carlos, Rado, Vratislav |
-| 2.  |  Sep 30, 2024 | General overview of core kernel concepts    | Vratislav                        |
+| 2.  |  Sep 30, 2024 | [Basic intro to Linux Kernel](/slides/L02_Basic-intro-to-Linux-Kernel.pdf)    | Vratislav                        |
 | 3.  |  Oct 7, 2024 | PC and the x86                              | Rado                             |
 | 4.  |  Oct 14, 2024  | Process management                          | Rado                             |
 | 5.  |  Oct 21, 2024 | Synchronization primitives                  | Carlos                           |
