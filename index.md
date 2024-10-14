@@ -70,7 +70,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 1.  |  Sep 23, 2024 | [Introduction](/slides/L01_Introduction.pdf), [Development environment setup](/slides/L01_Development-environment-setup.pdf) | Izabela, Carlos, Rado, Vratislav |
 | 2.  |  Sep 30, 2024 | [Basic intro to Linux Kernel](/slides/L02_Basic-intro-to-Linux-Kernel.pdf)    | Vratislav                        |
 | 3.  |  Oct 7, 2024 | [PC and the x86](/slides/L03_PC_and_the_x86.pdf) | Rado                             |
-| 4.  |  Oct 14, 2024  | Process management                          | Rado                             |
+| 4.  |  Oct 14, 2024  | [Process management](/slides/L04_Process_Management.pdf)  | Rado                             |
 | 5.  |  Oct 21, 2024 | Synchronization primitives                  | Carlos                           |
 | 6.  |  Nov 4, 2024 | Memory Management                           | Carlos                           |
 | 7.  |  Nov 11, 2024  | Storage management                          | Carlos                           |
@@ -88,7 +88,7 @@ Linux is the most widely used operating system in the world. The core software c
 | ID | Description                                                               | Max points | Due date      |
 |----|---------------------------------------------------------------------------|------------|---------------|
 | 1. | [Compile Smallest Custom Kernel](/assignments/A01_Custom_Kernel.md)       | 10         |  Oct 6, 2024  |
-| 2. | Custom Syscall                                                            | 20         |  Oct 27, 2024 |
+| 2. | [Custom Syscall](/assignments/A01_Custom_Syscall.md)                      | 20         |  Oct 27, 2024 |
 | 3. | Implement operations within the toyfs filesystem                          | 25         |  Nov 17, 2024 |
 | 4. | Implement locking on the toyfs filesystem                                 | 10         |  Dec 8, 2024  |
 | 5. | Change inode management to use slab cache                                 | 15         |  Dec 8, 2024  |
