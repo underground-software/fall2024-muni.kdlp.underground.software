@@ -85,12 +85,12 @@ Linux is the most widely used operating system in the world. The core software c
 - Use your \<login>\<at>fi.muni.cz emails to send the assignments
 - Use the mailing list <kdlp-brno-assignments\<at>redhat.com> to send the assignments
 
-| ID | Description                                                               | Max points | Due date      |
-|----|---------------------------------------------------------------------------|------------|---------------|
-| 1. | [Compile Smallest Custom Kernel](/assignments/A01_Custom_Kernel.md)       | 10         |  Oct 6, 2024  |
-| 2. | [Custom Syscall](/assignments/A02_Custom_Syscall.md)                      | 20         |  Oct 27, 2024 |
-| 3. | Implement operations within the toyfs filesystem                          | 25         |  Nov 17, 2024 |
-| 4. | Implement locking on the toyfs filesystem                                 | 10         |  Dec 8, 2024  |
-| 5. | Change inode management to use slab cache                                 | 15         |  Dec 8, 2024  |
-| 6. | Rewrite the metadata read/write paths to use proper endianess             | 10         |  Dec 8, 2024  |
-| 7. | Use `crash` tool to analyze a panicking kernel                            | 10         |  Dec 22, 2024 |
+| ID | Description                                                                                         | Max points | Due date     |
+|----|-----------------------------------------------------------------------------------------------------|------------|--------------|
+| 1. | [Compile Smallest Custom Kernel](/assignments/A01_Custom_Kernel.md)                                 | 10         | Oct 6, 2024  |
+| 2. | [Custom Syscall](/assignments/A02_Custom_Syscall.md)                                                | 20         | Oct 27, 2024 |
+| 3. | [Implement operations within the toyfs filesystem](/assignments/A03_filesystem_ops.odt)             | 25         | Nov 24, 2024 |
+| 4. | [Implement locking on the toyfs filesystem](/assignments/A04_locking.odt)                           | 10         | Dec 8, 2024  |
+| 5. | [Change inode management to use slab cache](/assignments/A05_slab_cache.odt)                        | 15         | Dec 8, 2024  |
+| 6. | [Rewrite the metadata read/write paths to use proper endianess](/assignments/A06_fs_endianness.odt) | 10         | Dec 8, 2024  |
+| 7. | Use `crash` tool to analyze a panicking kernel                                                      | 10         | Dec 22, 2024 |
