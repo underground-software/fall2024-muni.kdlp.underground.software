@@ -36,11 +36,6 @@ Linux is the most widely used operating system in the world. The core software c
 -   Excite students about the wonderful world of Linux kernel community
 -   Expose students to major kernel subsystems
 
-# Learning Outcomes
--   By the end of the course, students should have an understanding of how Linux kernel is architectured.
--   Understand the role of each of the major subsystems and how those interact with each other.
--   Students will also be able to have a basic understanding on how to write code for the Linux kernel, for its core and for modules, and how to use Linux’s provided generic interfaces (memory allocation, synchronization, generic data structures, etc) in their own kernel code.
--   Students will understand how to send patches to specific subsystems and how to review patches
 
 # Syllabus
 -   Introduction and development environment setup
@@ -73,7 +68,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 4.  | Oct 14, 2024 | [Process management](/slides/L04_Process_Management.pdf)                                                                     | Rado                             |
 | 5.  | Oct 21, 2024 | [Synchronization primitives](/slides/L05_Synchronization.pdf)                                                                | Carlos                           |
 | 6.  |  Nov 4, 2024 | [Memory Management](/slides/L06_MemoryManagement.pdf)                                                                        | Carlos                           |
-| 7.  | Nov 11, 2024 | Storage management                                                                                                           | Carlos                           |
+| 7.  | Nov 11, 2024 | [Filesystems](/slides/L07_Filesystems.pdf)                                                                                   | Carlos                           |
 | 8.  | Nov 18, 2024 | Networking stack                                                                                                             | Jirka                            |
 | 9.  | Nov 25, 2024 | Device drivers and Linux Device Model                                                                                        | Michal, Izabela                  |
 | 10. |  Dec 2, 2024 | Kernel Debugging 1                                                                                                           | Vratislav                        |
