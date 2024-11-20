@@ -69,7 +69,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 5.  | Oct 21, 2024 | [Synchronization primitives](/slides/L05_Synchronization.pdf)                                                                | Carlos                           |
 | 6.  |  Nov 4, 2024 | [Memory Management](/slides/L06_MemoryManagement.pdf)                                                                        | Carlos                           |
 | 7.  | Nov 11, 2024 | [Filesystems](/slides/L07_Filesystems.pdf)                                                                                   | Carlos                           |
-| 8.  | Nov 18, 2024 | Networking stack                                                                                                             | Jirka                            |
+| 8.  | Nov 18, 2024 | [Networking stack](/slides/L08_Networking.pdf)                                                                               | Jirka                            |
 | 9.  | Nov 25, 2024 | Device drivers and Linux Device Model                                                                                        | Michal, Izabela                  |
 | 10. |  Dec 2, 2024 | Kernel Debugging 1                                                                                                           | Vratislav                        |
 | 11. |  Dec 9, 2024 | Kernel Debugging 2                                                                                                           | Vratislav                        |
