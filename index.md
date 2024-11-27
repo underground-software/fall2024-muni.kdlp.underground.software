@@ -70,7 +70,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 6.  |  Nov 4, 2024 | [Memory Management](/slides/L06_MemoryManagement.pdf)                                                                        | Carlos                           |
 | 7.  | Nov 11, 2024 | [Filesystems](/slides/L07_Filesystems.pdf)                                                                                   | Carlos                           |
 | 8.  | Nov 18, 2024 | [Networking stack](/slides/L08_Networking.pdf)                                                                               | Jirka                            |
-| 9.  | Nov 25, 2024 | Device drivers and Linux Device Model                                                                                        | Michal, Izabela                  |
+| 9.  | Nov 25, 2024 | [Device drivers and Linux Device Model](/slides/L09_Modules_Device_Drivers.pdf)                                              | Michal                           |
 | 10. |  Dec 2, 2024 | Kernel Debugging 1                                                                                                           | Vratislav                        |
 | 11. |  Dec 9, 2024 | Kernel Debugging 2                                                                                                           | Vratislav                        |
 | 12. | Dec 16, 2024 | GPG signing party!                                                                                                           | Izabela, Carlos, Rado, Vratislav |
@@ -89,3 +89,13 @@ Linux is the most widely used operating system in the world. The core software c
 | 5. | [Change inode management to use slab cache](/assignments/A05_slab_cache.odt)                        | 15         | Dec 8, 2024  |
 | 6. | [Rewrite the metadata read/write paths to use proper endianess](/assignments/A06_fs_endianness.odt) | 10         | Dec 8, 2024  |
 | 7. | Use `crash` tool to analyze a panicking kernel                                                      | 10         | Dec 22, 2024 |
+
+# Special Thanks
+
+We would like to show our appreciation to the following people who have contributed to the course or without their help the course would not be existing:
+
+- Martin Ukrop
+- Joel Sawitz
+- Julia Dehnam
+- Jiri Benc
+- Michal Schmidt
