@@ -71,7 +71,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 7.  | Nov 11, 2024 | [Filesystems](/slides/L07_Filesystems.pdf)                                                                                   | Carlos                           |
 | 8.  | Nov 18, 2024 | [Networking stack](/slides/L08_Networking.pdf)                                                                               | Jirka                            |
 | 9.  | Nov 25, 2024 | [Device drivers and Linux Device Model](/slides/L09_Modules_Device_Drivers.pdf)                                              | Michal                           |
-| 10. |  Dec 2, 2024 | Kernel Debugging 1                                                                                                           | Vratislav                        |
+| 10. |  Dec 2, 2024 | [Kernel Debugging 1](/slides/L10_Kernel_Debugging_1.pdf)                                                                     | Vratislav                        |
 | 11. |  Dec 9, 2024 | Kernel Debugging 2                                                                                                           | Vratislav                        |
 | 12. | Dec 16, 2024 | GPG signing party!                                                                                                           | Izabela, Carlos, Rado, Vratislav |
 
