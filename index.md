@@ -88,7 +88,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 4. | [Implement locking on the toyfs filesystem](/assignments/A04_locking.odt)                           | 10         | Dec 8, 2024  |
 | 5. | [Change inode management to use slab cache](/assignments/A05_slab_cache.odt)                        | 15         | Dec 8, 2024  |
 | 6. | [Rewrite the metadata read/write paths to use proper endianess](/assignments/A06_fs_endianness.odt) | 10         | Dec 8, 2024  |
-| 7. | Use `crash` tool to analyze a panicking kernel                                                      | 10         | Dec 22, 2024 |
+| 7. | [Use `crash` tool to analyze a panicking kernel](/assignments/A07_vmcore_analysis.pdf)              | 10         | Dec 22, 2024 |
 
 # Special Thanks
 
