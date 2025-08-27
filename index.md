@@ -75,21 +75,6 @@ Linux is the most widely used operating system in the world. The core software c
 | 11. |  Dec 9, 2024 | [Kernel Debugging 2](/slides/L11_Kernel_Debugging_2.pdf)                                                                     | Vratislav                        |
 | 12. | Dec 16, 2024 | GPG signing party!                                                                                                           | Izabela, Carlos, Rado, Vratislav |
 
-# Assignments
-
-- Use your \<login>\<at>fi.muni.cz emails to send the assignments
-- Use the mailing list <kdlp-brno-assignments\<at>redhat.com> to send the assignments
-
-| ID | Description                                                                                         | Max points | Due date     |
-|----|-----------------------------------------------------------------------------------------------------|------------|--------------|
-| 1. | [Compile Smallest Custom Kernel](/assignments/A01_Custom_Kernel.md)                                 | 10         | Oct 6, 2024  |
-| 2. | [Custom Syscall](/assignments/A02_Custom_Syscall.md)                                                | 20         | Oct 27, 2024 |
-| 3. | [Implement operations within the toyfs filesystem](/assignments/A03_filesystem_ops.odt)             | 25         | Nov 24, 2024 |
-| 4. | [Implement locking on the toyfs filesystem](/assignments/A04_locking.odt)                           | 10         | Dec 8, 2024  |
-| 5. | [Change inode management to use slab cache](/assignments/A05_slab_cache.odt)                        | 15         | Dec 8, 2024  |
-| 6. | [Rewrite the metadata read/write paths to use proper endianess](/assignments/A06_fs_endianness.odt) | 10         | Dec 8, 2024  |
-| 7. | [Use `crash` tool to analyze a panicking kernel](/assignments/A07_vmcore_analysis.pdf)              | 10         | Dec 22, 2024 |
-
 # Special Thanks
 
 We would like to show our appreciation to the following people who have contributed to the course or without their help the course would not be existing:
